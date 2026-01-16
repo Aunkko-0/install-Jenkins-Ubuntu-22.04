@@ -45,5 +45,6 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 ให้ Copy แล้วเอากรอกในช่องว่าง 
 
-Credit: https://medium.com/@ranjith_99360/how-to-install-jenkins-on-ubuntu-22-04-17b99fd41678
-        https://medium.com/@cloudtechnet/how-to-install-jenkins-on-ubuntu-22-04-aws-ec2-instance-8234a096ffdb
+Credit: 
+1. https://medium.com/@ranjith_99360/how-to-install-jenkins-on-ubuntu-22-04-17b99fd41678
+2. https://medium.com/@cloudtechnet/how-to-install-jenkins-on-ubuntu-22-04-aws-ec2-instance-8234a096ffdb
